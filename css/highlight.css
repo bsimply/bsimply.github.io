@@ -1,0 +1,79 @@
+/*
+
+Dracula Theme v1.2.0
+
+https://github.com/zenorocha/dracula-theme
+
+Copyright 2015, All rights reserved
+
+Code licensed under the MIT license
+http://zenorocha.mit-license.org
+
+@author Éverton Ribeiro <nuxlli@gmail.com>
+@author Zeno Rocha <hi@zenorocha.com>
+
+*/
+
+.hljs {
+  display: block;
+  overflow-x: auto;
+  padding: 0.5em;
+  background: #273036;  /* #282a36; */
+}
+
+.hljs-keyword,
+.hljs-selector-tag,
+.hljs-section,
+.hljs-link {
+  color: #ffff00;  /* #8be9fd; */
+}
+
+.hljs-tag,
+.hljs-tag .hljs-name {
+  color: #f1fa8c;
+}
+
+.hljs-literal,
+.hljs-function .hljs-keyword {
+  color: #ffa500;
+}
+
+.hljs,
+.hljs-subst {
+  color: #f8f8f2;
+}
+
+.hljs-string {
+  color: #00ff00;
+}
+
+.hljs-number {
+  color: #00ffff;
+}
+
+.hljs-title,
+.hljs-name,
+.hljs-type,
+.hljs-attribute,
+.hljs-symbol,
+.hljs-bullet,
+.hljs-addition,
+.hljs-variable,
+.hljs-template-tag,
+.hljs-template-variable {
+  color: #f1fa8c;
+}
+
+.hljs-comment {
+  color: #9bcd9b;
+}
+
+.hljs-quote,
+.hljs-deletion,
+.hljs-meta {
+  color: #6272a4;
+}
+
+.hljs-emphasis {
+  font-style: italic;
+}
